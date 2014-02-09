@@ -1,4 +1,3 @@
-moved-to-github.com-kidoman
-===========================
+# Change of address
 
-I have moved to github.com/kidoman
+I have moved to https://github.com/kidoman
